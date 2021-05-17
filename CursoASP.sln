@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DropDownList", "DropDownLis
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SQLConnection", "SQLConnection\SQLConnection.csproj", "{6F856165-E3B0-4C2E-98BB-13C09B5D30FD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebServiceApp", "WebServiceApp\WebServiceApp.csproj", "{94B48AC1-084C-42E2-BF6F-3742A7EC6A50}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{6F856165-E3B0-4C2E-98BB-13C09B5D30FD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6F856165-E3B0-4C2E-98BB-13C09B5D30FD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6F856165-E3B0-4C2E-98BB-13C09B5D30FD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{94B48AC1-084C-42E2-BF6F-3742A7EC6A50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B48AC1-084C-42E2-BF6F-3742A7EC6A50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B48AC1-084C-42E2-BF6F-3742A7EC6A50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B48AC1-084C-42E2-BF6F-3742A7EC6A50}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
